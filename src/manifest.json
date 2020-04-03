@@ -1,7 +1,7 @@
  
 {
-  "name": "Hello World",
-  "description": "Hello World Chrome App.",
+  "name": "Get Emails & Telephone Numbers",
+  "description": "Easy Chrome extension to get all mailto: and tel: value inside href.",
   "version": "0.1",
   "manifest_version": 2,
   "permissions": [
