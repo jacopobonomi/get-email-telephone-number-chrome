@@ -17,7 +17,7 @@ function printResults(printable,hiddenType) {
     liList = "<p style='font-weight:bold'>-" + printableItem + "</p>" + (liList ? liList : "");
   })) : "";
   (printable.length > 0) ?
-    document.querySelector("#result").innerHTML = "<p>Result:" + liList +liList+liList+liList+liList+liList+liList+ "</p>"
+    document.querySelector("#result").innerHTML = "<p>Result:" + liList + "</p>"
     : document.querySelector("#result").innerHTML = "<p>I <b style='color:#57aae7'>haven't</b> found anything. Try another page! 🧐</p>";
     document.querySelector("#result").classList="div-result";
     document.querySelector("#button-copy").classList="";
