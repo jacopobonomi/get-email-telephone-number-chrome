@@ -4,6 +4,6 @@ You can easy add in your Chromium based browser and use.
 
 If you wan't to download source code, you can install directtly from chrome web store.
 
-https://chrome.google.com/webstore/detail/hhogklpgcpnbgobfgikelgbmhcbacmae/publish-accepted?authuser=0&hl=it
-  
+https://chrome.google.com/webstore/detail/get-emails-telephone-numb/hhogklpgcpnbgobfgikelgbmhcbacmae
+
 Code is not really clean, we can do really better, if you want to help, make a new branch or fork repository and improve!  
